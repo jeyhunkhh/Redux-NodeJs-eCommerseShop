@@ -1,3 +1,19 @@
 main{
   min-height: 80vh;
 }
+
+.product .card-body{
+  min-height: 177px;
+}
+
+.title{
+  color: rgb(90, 90, 90);
+}
+
+.title:hover{
+  color: rgb(90, 90, 90);
+}
+
+.price{
+  padding-top: 1rem;
+}
