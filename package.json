@@ -1,0 +1,22 @@
+{
+  "name": "redux-nodejs-ecommerseshop",
+  "version": "1.0.0",
+  "description": "ProShop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeyhunkhh/Redux-NodeJs-eCommerseShop.git"
+  },
+  "author": "Jeyhun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeyhunkhh/Redux-NodeJs-eCommerseShop/issues"
+  },
+  "homepage": "https://github.com/jeyhunkhh/Redux-NodeJs-eCommerseShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
